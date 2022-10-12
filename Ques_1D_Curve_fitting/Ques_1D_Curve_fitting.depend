@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1647065241 source:c:\users\shudhanshu\documents\code block c++\ques_1d_curve_fitting\main.cpp
+	<iostream>
+	<cmath>
+
